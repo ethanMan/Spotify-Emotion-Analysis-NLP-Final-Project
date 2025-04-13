@@ -5,4 +5,4 @@
 .DS_Store
 
 # Huge datasets
-/data/datasets/song_lyrics.csv/
+/data/datasets/song_lyrics.csv
