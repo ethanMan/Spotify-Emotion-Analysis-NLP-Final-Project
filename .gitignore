@@ -16,7 +16,6 @@
 /data/datasets/song_lyrics.csv
 /data/datasets/goemotions/test.csv
 /data/datasets/goemotions/train.csv
-/data/analyzed_lyrics.csv
-/data/classified_lyrics.csv
-/data/filtered_lyrics.csv
-/data/sentiment_analyzed_lyrics.csv
+
+# Git backup
+.git.backup/
